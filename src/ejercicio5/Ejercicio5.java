@@ -188,6 +188,8 @@ public class Ejercicio5 extends javax.swing.JFrame {
         txtResultado.append("\nLa sumatoria es: "+res2); 
             
         
+        
+        
            
             
         
